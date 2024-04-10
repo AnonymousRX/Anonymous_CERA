@@ -5,7 +5,7 @@
 
 ## Overview
 <p align="center">
-<img src='img\\architecture.png'/>
+<img src='architecture.png'/>
 
 CERA comprises three modules: Heterogeneous Feature Decoupling (HFD), Domain Association Modeling (DAM) and Feature Dynamic Fusion (FDF). HFD extracts heterogeneous features from multimodal data, and separates them into modality-invariant and modality-specific domains. DAM associates complementary features within the modality-specific domain (i.e., intra-domain features) or cross domains (i.e., cross-domain features). FDF fuses these intra-domain and cross-domain features for further prediction tasks.
 
